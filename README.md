@@ -1,6 +1,7 @@
 # Surface match dataset
 
-This dataset contain data which shows value of crossing between two images.
+This dataset contain data which shows value of crossing between two images.  
+More detail information about this purposes you can read in [this article](https://medium.com/@Dok11/neural-networks-in-the-photogrammetry-5f68f05a64e9).
 
 ![progress](/docs/surface_match.png)
 
